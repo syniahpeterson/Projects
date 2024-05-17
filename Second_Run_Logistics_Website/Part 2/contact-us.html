@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous">
+    <script src="JS/gallery.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+    </script>
+    <script src="JS/email.js"></script>
+    <script src="JS/contact-email.js"></script>
+</head>
+<body>
+    <header>
+        <div class="nav" id="nav-bar">
+            <a class="logo" href="index.html"><img class="icons" alt="Second Run Logistics Logo" src="images/SRL.png"></a>
+            <a href="index.html"><i class="fa fa-fw fa-home"></i>&ensp;Home</a>
+            <a href="services.html"><i class="fa fa-fw fa-list"></i>&ensp;Services</a>
+            <a href="get-a-quote.html"><i class="fa fa-fw fa-money"></i>&ensp;Get A Quote</a>
+            <a class="actives" href="contact-us.html"><i class="fa fa-fw fa-envelope"></i>&ensp;Contact Us</a>
+            <a href="locations.html"><i class="fa fa-fw fa-map-marker"></i>&ensp;Locations</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+        </div>
+        <div class="carousel-container">
+            <button class="carousel-btn left"><i class="fa-solid fa-chevron-left"></i></button>
+            <ul class="carousel">
+                <li class="carousel-item act"><img src="images/SRL.png" alt="Entrance"></li>
+                <li class="carousel-item"><img src="images/truck1.jpeg" alt="Library"></li>
+                <li class="carousel-item"><img src="images/truck2.jpeg" alt="Woodward1"></li>
+                <li class="carousel-item"><img src="images/van1.jpeg" alt="Woodward2"></li>
+            </ul>
+            <button class="carousel-btn right"><i class="fa-solid fa-chevron-right"></i></button>
+            <div class="carousel-nav">
+                <div class="nav-item act"></div>
+                <div class="nav-item"></div>
+                <div class="nav-item"></div>
+                <div class="nav-item"></div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="contact-container">
+            <form class="contact-form" onsubmit="sendContactMail(); reset(); return false;">
+                <div class="contact-contact-info">
+                    <h1>Your Contact Information</h1>
+                    <label for="first_name">First Name: </label>
+                    <input type="text" id="first_name" placeholder="John" required>
+                    <label for="last_name">Last Name: </label>
+                    <input type="text" id="last_name" placeholder="Doe" required>
+                    <label for="company_name">Company Name: </label>
+                    <input type="text" id="company_name" placeholder="John Doe Shirts INC." required>
+                    <label for="phone_number">Phone Number: </label>
+                    <input type="tel" id="phone_number" placeholder="1234567890" required>
+                    <label for="email_address">Email: </label>
+                    <input type="email" id="email_address" placeholder="johndoe@gmail.com" required>
+                </div>
+                <div class="contact-question-comment">
+                    <h1>Question/Comment/Inquiry</h1>
+                    <textarea placeholder="Type your question, comment, or inquiry here" required id="qci"></textarea>
+                </div>
+                <button data-toggle="tooltip" title="Make Contact!" class="submit-btn buttons contact-btn" type="submit" id="contact-submit">Make Contact</button>
+            </form>
+        </div>
+    </main>
+    <div class="footer">
+        <footer>
+            <p class="phone">Phone Number: <a href="tel:9191234567">919-123-4567</a></p>
+            <p class="email">Company Email: <a href="mailto:qasim@secondrunlogisticsllc.com">qasim@secondrunlogistics.com</a></p>
+            <div class="footer-icons">
+                <ul>
+                    <li><a target="_blank" href="https://twitter.com/secondrun1986"><i class="fab fa-twitter-square"></i></a></li>
+                    <li><a target="_blank" href="https://www.facebook.com/profile.php?id=61557460382177"><i class="fab fa-facebook-square"></i></a></li>
+                    <li><a target="_blank" href="https://www.instagram.com/secondrunlogistics/"><i class="fab fa-instagram"></i></a></li>
+                    <li><a target="_blank" href="https://www.tiktok.com/@secondrunlogistics"><i class="fab fa-tiktok"></i></a></li>
+                    <li><a target="_blank" href="https://t.snapchat.com/s8aCv6vV"><i class="fab fa-snapchat-square"></i></a></li>
+                    <li><a target="_blank" href="https://linkedin.com/in/secondrunlogistics"><i class="fab fa-linkedin-square"></i></a></li>
+                </ul>
+            </div>
+            <small class="copyright">Copyright &copy; 2024 SecondRunLogistics.com All Rights Reserved.</small>
+        </footer>
+    </div>
+    <script src="JS/nav.js"></script>
+</body>
+</html>
