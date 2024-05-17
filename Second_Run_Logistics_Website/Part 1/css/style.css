@@ -1,0 +1,403 @@
+* {
+    font-family: 'Georgia', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.icon {
+    width: 80px;
+    height: 60px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    Height: 100px;
+}
+
+.nav a {
+    text-align: center;
+    padding: 10px 50px;
+    text-decoration: none;
+    font-size: 18;
+    color: #ff851b;
+}
+
+.active {
+    border: 2px solid #ff851b;
+}
+
+.buttons {
+    background-color: #ff851b;
+    padding: 15px;
+    border: #333;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    color: #333;
+}
+
+.contact-info-header {
+    position: relative;
+    top: 110px;
+}
+
+.selections {
+    position: relative;
+    top: 110px;
+    background-color: #333;
+    padding: 55px;
+    border: #ff851b;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    color: #ff851b;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+.images {
+    width: 100%;
+    height: 300px;
+}
+
+.gallery {
+    padding-top: 110px;
+    z-index: -1;
+}
+
+.login-info {
+    position: relative;
+    top: 150px;
+    text-align: center;
+    padding-bottom: 45px;
+}
+
+.confirmation {
+    position: relative;
+    top: 110px;
+    text-align: center;
+    color: #333;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+    border: 4px solid #ff851b;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.who-and-why {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    padding-bottom: 15px;
+}
+
+.who {
+    grid-row: 1;
+    grid-column: 1;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.who-img {
+    grid-row: 1;
+    grid-column: 2;
+    width: 20vw;
+    height: 20vh;
+    padding-left: 150px;
+    padding-top: 35px;
+}
+
+.why {
+    grid-row: 2;
+    grid-column: 2;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.why-img {
+    grid-row: 2;
+    grid-column: 1;
+    width: 20vw;
+    height: 30vh;
+    padding-left: 150px;
+}
+.services {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 75px;
+    row-gap: 50px;
+    column-gap: 50px;
+    overflow: auto;
+}
+
+.learn-more {
+    color: #ff851b;
+    background-color: #333
+}
+
+.box-format {
+    border: 2px solid #ff851b;
+    height: 150px;
+    width: 300px;
+    padding-bottom: 15px;
+}
+
+a {
+    color: #ff851b;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ff851b;
+    text-decoration: none;
+}
+
+.explore-pricing {
+    color: #ff851b;
+    background-color: #333
+}
+
+.service-page-format {
+    margin-top: 50px;
+    text-align: center;
+    padding-left: 600px;
+    padding-right: 600px;
+}
+
+.quote {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr .25fr;
+}
+
+.quote-contact-info {
+    display: grid;
+    width: 50vw;
+    padding-bottom: 15px;
+    align-items: center;
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.quote-contact-info label {
+    padding-top: 15px;
+}
+
+.quote-origin-dest-info {
+    display: grid;
+    width: 50vw;
+    padding-bottom: 15px;
+    align-items: center;
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.quote-shipment-info {
+    display: grid;
+    width: 50vw;
+    padding-bottom: 15px;
+    align-items: center;
+    grid-column: 2;
+    grid-row: 3;
+}
+
+.submit-btn {
+    grid-column: 2;
+    grid-row: 4;
+    height: 4vh;
+    background-color: #333;
+    color: #ff851b;
+    margin-bottom: 5px;
+}
+
+.quote-table {
+    position: relative;
+    top: 100px;
+    z-index: -1;
+    border: 4px solid #333;
+    color: black;
+}
+
+table {
+    border: #333;
+    background-color: lightsalmon;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
+
+.contact {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 1fr 1fr .25fr;
+}
+
+.contact-contact-info {
+    display: grid;
+    width: 50vw;
+    padding-bottom: 15px;
+    align-items: center;
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.contact-contact-info label {
+    padding-top: 15px;
+}
+
+.contact-question-comment {
+    width: 50vw;
+    align-items: center;
+    grid-column: 2;
+    grid-row: 2;
+}
+
+textarea {
+    width: 50vw;
+    height: 300px;
+}
+
+.contact-table {
+    position: relative;
+    top: 110px;
+    z-index: -1;
+    border: 4px solid #333;
+    color: black;
+}
+
+.requested-quotes {
+    position: relative;
+    top: 110px;
+}
+
+.locations {
+    position: relative;
+    top: 110px;
+    z-index: -1;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.map iframe {
+    position: relative;
+    top: 110px;
+    z-index: -1;
+    grid-row: 1;
+    grid-column: 1 / 6;
+    width: 100vw;
+    height: 50vh;
+}
+.US {
+    grid-row: 2;
+    grid-column: 3 / 5;
+}
+
+.NC {
+    grid-row: 3;
+    grid-column: 2;
+}
+
+.NY {
+    grid-row: 3;
+    grid-column: 3;
+}
+
+.PA {
+    grid-row: 3;
+    grid-column: 4;
+}
+
+.NJ {
+    grid-row: 3;
+    grid-column: 5;
+}
+
+.FL {
+    grid-row: 4;
+    grid-column: 2;
+}
+
+.MA {
+    grid-row: 4;
+    grid-column: 3;
+}
+
+.GA {
+    grid-row: 4;
+    grid-column: 4;
+}
+
+.VA {
+    grid-row: 4;
+    grid-column: 5;
+}
+
+.CAD {
+    grid-row: 5;
+    grid-column: 3 / 5;
+}
+
+.V {
+    grid-row: 6;
+    grid-column: 2 / 4;
+}
+
+.T {
+    grid-row: 6;
+    grid-column: 3 / 5;
+}
+
+.M {
+    grid-row: 6;
+    grid-column: 4 / 6;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    background-color: #333;
+    color: #ff851b;
+    text-align: center;
+}
+
+small {
+    bottom: 0;
+    
+}
+
+footer a {
+    color: white;
+    padding: 20px 22px;
+}
+
+footer a:visited {
+    color: white;
+}
