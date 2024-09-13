@@ -1,6 +1,6 @@
-[Age Calculator](/Age-Calculator)
-https://syniahpeterson.github.io/Projects/Animated-Borders
-https://syniahpeterson.github.io/Projects/Animated-Login-Page
+[Age Calculator](https://syniahpeterson.github.io/Projects/Age-Calculator)
+[Animated Borders](https://syniahpeterson.github.io/Projects/Animated-Borders)
+[Animated Login Page](https://syniahpeterson.github.io/Projects/Animated-Login-Page)
 https://syniahpeterson.github.io/Projects/Animated-Search-Bar
 https://syniahpeterson.github.io/Projects/Auto-Text-Effect-Animation
 https://syniahpeterson.github.io/Projects/BMI-Calculator
