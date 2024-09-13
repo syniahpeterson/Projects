@@ -1,4 +1,4 @@
-https://syniahpeterson.github.io/Projects/Age-Calculator
+[Age Calculator](/Age-Calculator)
 https://syniahpeterson.github.io/Projects/Animated-Borders
 https://syniahpeterson.github.io/Projects/Animated-Login-Page
 https://syniahpeterson.github.io/Projects/Animated-Search-Bar
