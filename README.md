@@ -1,37 +1,37 @@
 - [Age Calculator](https://syniahpeterson.github.io/Projects/Age-Calculator){:target="_blank"}    
-- [Animated Borders](https://syniahpeterson.github.io/Projects/Animated-Borders)  
-- [Animated Login Page](https://syniahpeterson.github.io/Projects/Animated-Login-Page)  
-- [Animated Search Bar](https://syniahpeterson.github.io/Projects/Animated-Search-Bar)  
-- [Auto Text Effect Animation](https://syniahpeterson.github.io/Projects/Auto-Text-Effect-Animation)  
-- [BMI Calculator](https://syniahpeterson.github.io/Projects/BMI-Calculator)  
-- [Background Image Scroll Effect](https://syniahpeterson.github.io/Projects/Background-Image-Scroll-Effect)  
-- [Blurred Background Popup](https://syniahpeterson.github.io/Projects/Blurred-Background-Popup)  
-- [Clock](https://syniahpeterson.github.io/Projects/Clock)  
-- [Dark Mode Toggle](https://syniahpeterson.github.io/Projects/Dark-Mode-Toggle)  
-- [Dice Roll Simulator](https://syniahpeterson.github.io/Projects/Dice-Roll-Simulator)  
-- [Digital-Clock](https://syniahpeterson.github.io/Projects/Digital-Clock)  
-- [Double Landing Page](https://syniahpeterson.github.io/Projects/Double-Landing-Page)  
-- [Drum Kits](https://syniahpeterson.github.io/Projects/Drum-Kits)  
-- [Heart Trail Animation](https://syniahpeterson.github.io/Projects/Heart-Trail-Animation)  
-- [Image Slider](https://syniahpeterson.github.io/Projects/Image-Slider)  
-- [Basic Calculato](https://syniahpeterson.github.io/Projects/JS-Basic-Calculator)  
-- [Loading Bar](https://syniahpeterson.github.io/Projects/Loading-Bar)  
-- [Loan Calculator](https://syniahpeterson.github.io/Projects/Loan-Calculator)  
-- [Login Form](https://syniahpeterson.github.io/Projects/Login-Form)  
-- [Mouse Event](https://syniahpeterson.github.io/Projects/Mouse-Event)  
-- [Multiplication App](https://syniahpeterson.github.io/Projects/Multiplication-App)  
-- [New Year Countdown](https://syniahpeterson.github.io/Projects/New-Year-Countdown)  
-- [Pomodoro Timer](https://syniahpeterson.github.io/Projects/Pomodoro-Timer)  
-- [Pricing Table](https://syniahpeterson.github.io/Projects/Pricing-Table)  
-- [Profile Statistics](https://syniahpeterson.github.io/Projects/Profile-Statistics)  
-- [Random Color Generator](https://syniahpeterson.github.io/Projects/Random-Color-Generator)  
-- [Random Emoji Generator](https://syniahpeterson.github.io/Projects/Random-Emoji)  
-- [Random Photo Generator](https://syniahpeterson.github.io/Projects/Random-Photos)  
-- [Real Time Character Counter](https://syniahpeterson.github.io/Projects/Real-Time-Character-Counter)  
-- [Ripple Button Effect](https://syniahpeterson.github.io/Projects/Ripple-Button-Effect)  
-- [Rotating Image Gallery](https://syniahpeterson.github.io/Projects/Rotating-Image-Gallery)  
-- [Sticky Navbar](https://syniahpeterson.github.io/Projects/Sticky-Navbar)  
-- [Tabs Section](https://syniahpeterson.github.io/Projects/Tabs-Section)  
-- [Temperature Converter](https://syniahpeterson.github.io/Projects/Temperature-Converter)  
-- [Tip Calculator](https://syniahpeterson.github.io/Projects/Tip-Calculator)  
-- [Video Trailer Popup](https://syniahpeterson.github.io/Projects/Video-Trailer-Popup)  
+- [Animated Borders](https://syniahpeterson.github.io/Projects/Animated-Borders){:target="_blank"}    
+- [Animated Login Page](https://syniahpeterson.github.io/Projects/Animated-Login-Page){:target="_blank"}    
+- [Animated Search Bar](https://syniahpeterson.github.io/Projects/Animated-Search-Bar){:target="_blank"}    
+- [Auto Text Effect Animation](https://syniahpeterson.github.io/Projects/Auto-Text-Effect-Animation){:target="_blank"}    
+- [BMI Calculator](https://syniahpeterson.github.io/Projects/BMI-Calculator){:target="_blank"}  
+- [Background Image Scroll Effect](https://syniahpeterson.github.io/Projects/Background-Image-Scroll-Effect){:target="_blank"}  
+- [Blurred Background Popup](https://syniahpeterson.github.io/Projects/Blurred-Background-Popup){:target="_blank"}  
+- [Clock](https://syniahpeterson.github.io/Projects/Clock){:target="_blank"}  
+- [Dark Mode Toggle](https://syniahpeterson.github.io/Projects/Dark-Mode-Toggle){:target="_blank"}  
+- [Dice Roll Simulator](https://syniahpeterson.github.io/Projects/Dice-Roll-Simulator){:target="_blank"}  
+- [Digital-Clock](https://syniahpeterson.github.io/Projects/Digital-Clock){:target="_blank"}  
+- [Double Landing Page](https://syniahpeterson.github.io/Projects/Double-Landing-Page){:target="_blank"}   
+- [Drum Kits](https://syniahpeterson.github.io/Projects/Drum-Kits){:target="_blank"}  
+- [Heart Trail Animation](https://syniahpeterson.github.io/Projects/Heart-Trail-Animation){:target="_blank"}  
+- [Image Slider](https://syniahpeterson.github.io/Projects/Image-Slider){:target="_blank"}  
+- [Basic Calculato](https://syniahpeterson.github.io/Projects/JS-Basic-Calculator){:target="_blank"}  
+- [Loading Bar](https://syniahpeterson.github.io/Projects/Loading-Bar){:target="_blank"}  
+- [Loan Calculator](https://syniahpeterson.github.io/Projects/Loan-Calculator){:target="_blank"}  
+- [Login Form](https://syniahpeterson.github.io/Projects/Login-Form){:target="_blank"}  
+- [Mouse Event](https://syniahpeterson.github.io/Projects/Mouse-Event){:target="_blank"}  
+- [Multiplication App](https://syniahpeterson.github.io/Projects/Multiplication-App){:target="_blank"}  
+- [New Year Countdown](https://syniahpeterson.github.io/Projects/New-Year-Countdown){:target="_blank"}  
+- [Pomodoro Timer](https://syniahpeterson.github.io/Projects/Pomodoro-Timer){:target="_blank"}  
+- [Pricing Table](https://syniahpeterson.github.io/Projects/Pricing-Table){:target="_blank"}  
+- [Profile Statistics](https://syniahpeterson.github.io/Projects/Profile-Statistics){:target="_blank"}  
+- [Random Color Generator](https://syniahpeterson.github.io/Projects/Random-Color-Generator){:target="_blank"}  
+- [Random Emoji Generator](https://syniahpeterson.github.io/Projects/Random-Emoji){:target="_blank"}  
+- [Random Photo Generator](https://syniahpeterson.github.io/Projects/Random-Photos){:target="_blank"}  
+- [Real Time Character Counter](https://syniahpeterson.github.io/Projects/Real-Time-Character-Counter){:target="_blank"}  
+- [Ripple Button Effect](https://syniahpeterson.github.io/Projects/Ripple-Button-Effect){:target="_blank"}  
+- [Rotating Image Gallery](https://syniahpeterson.github.io/Projects/Rotating-Image-Gallery){:target="_blank"}  
+- [Sticky Navbar](https://syniahpeterson.github.io/Projects/Sticky-Navbar){:target="_blank"}  
+- [Tabs Section](https://syniahpeterson.github.io/Projects/Tabs-Section){:target="_blank"}  
+- [Temperature Converter](https://syniahpeterson.github.io/Projects/Temperature-Converter){:target="_blank"}  
+- [Tip Calculator](https://syniahpeterson.github.io/Projects/Tip-Calculator){:target="_blank"}  
+- [Video Trailer Popup](https://syniahpeterson.github.io/Projects/Video-Trailer-Popup){:target="_blank"}  
