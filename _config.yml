@@ -4,3 +4,7 @@ description: Recent Projects developed by Syniah Peterson
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-extlinks
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
